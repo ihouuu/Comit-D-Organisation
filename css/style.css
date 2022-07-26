@@ -1,0 +1,48 @@
+body{
+    background: black;
+    margin: auto;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
+.blanc{
+    background: white;
+}
+.fond{
+    background: red;
+}
+.icone{
+    font-size:30px;
+    font-weight: bolder;
+    color: red;
+
+}
+.joker{
+    padding-left: px;
+}
+.couleur{
+    color: white;
+}
+.loop{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+hr{
+    border: rgba(53, 52, 52, 0.008) solid 2px ;
+}
+footer{
+    background: white;
+    height: 150px;
+}
+h3{
+    padding-top: 20px;
+}
+
+.pousse{
+    padding-left: 130px;
+}
+.haut{
+    margin-top: 40px;
+}
+
+
+
